@@ -1,0 +1,8 @@
+prefix=/home/amir/Documents/uni2/catkin_ws/devel
+
+Name: turtle2_openai_ros_example
+Description: Description of turtle2_openai_ros_example
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
